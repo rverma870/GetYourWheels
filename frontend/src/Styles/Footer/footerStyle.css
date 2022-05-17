@@ -1,0 +1,17 @@
+.footer {
+  color: aliceblue;
+}
+.footer a{
+  color: aliceblue;
+  font-family: 'Jost', sans-serif;
+}
+
+.FooterContent{
+  font-family: 'Jost', sans-serif;
+}
+
+.FooterLogo{
+  background-color: rgb(192, 189, 192) !important;
+font-family: 'Sigmar One', cursive;
+}
+

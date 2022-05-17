@@ -1,0 +1,24 @@
+.ProductLayoutHeading{
+    font-family: 'Secular One', sans-serif;
+}
+
+.productlayout {
+    transition: transform 0.2s ease;
+    box-shadow: 0 4px 6px 0 rgba(18, 18, 20, 0.3);
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 1.5em;
+}
+.card-footer{
+    font-family: 'Jost', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+}
+
+.productlayout:hover {
+transform: scale(1.1);
+}
+
+.ProductLayoutButton:hover{
+    color: rgb(67, 128, 7) !important;
+    
+}

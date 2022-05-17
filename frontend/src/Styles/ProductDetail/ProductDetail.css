@@ -1,0 +1,7 @@
+.ProductDetailHeading{
+  font-family: 'Outfit', sans-serif;
+}
+
+#BookTrialButton:hover{
+    background-color: rgb(64, 146, 17);
+}

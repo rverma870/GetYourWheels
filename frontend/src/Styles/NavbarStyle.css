@@ -1,0 +1,21 @@
+nav{
+    font-family: 'Secular One', sans-serif;
+    font-size: large;
+    /* background-color: rgb(235, 232, 229); */
+}
+
+.NavbarLogginRegistrationButton{
+    color: white !important;
+}
+
+.NavbarLogginRegistrationButton:hover{
+    color: rgb(105, 161, 20) !important;
+}
+
+.NavbarCartButton{
+    color: white !important;
+}
+
+.NavbarCartButton:hover{
+    color: rgb(105, 161, 20) !important;
+}
