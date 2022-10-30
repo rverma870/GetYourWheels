@@ -32,40 +32,14 @@ frontend/yarn-error.log*
 
 
 
-#Backend....................................................
+### Backend ###
 
-mywheels/HELP.md
-mywheels/target/
-mywheels/!.mvn/wrapper/maven-wrapper.jar
-mywheels/!**/src/main/**/target/
-mywheels/!**/src/test/**/target/
+backend/HELP.md
+backend/target/
+backend/!.mvn/wrapper/maven-wrapper.jar
+backend/!**/src/main/**/target/
+backend/!**/src/test/**/target/
 
-### STS ###
-mywheels/.apt_generated
-mywheels/.classpath
-mywheels/.factorypath
-mywheels/.project
-mywheels/.settings
-mywheels/.springBeans
-mywheels/.sts4-cache
-mywheels/README.md
-
-
-### IntelliJ IDEA ###
-mywheels/.idea
-mywheels/*.iws
-mywheels/*.iml
-mywheels/*.ipr
-
-### NetBeans ###
-mywheels/nbproject/private/
-mywheels/nbbuild/
-mywheels/dist/
-mywheels/nbdist/
-mywheels/.nb-gradle/
-mywheels/build/
-mywheels/mywheels/!**/src/main/**/build/
-mywheels/mywheels/!**/src/test/**/build/
 
 ### VS Code ###
 mywheels/.vscode/
