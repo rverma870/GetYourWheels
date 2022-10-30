@@ -1,7 +1,7 @@
+# Frontend for GetYourWheels
 
-
- # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# This is project which helps to find the best suitable car for you and even book a test drive of that vehical at your door step.
+- Developed frontend usign react.
+- Used redux to maintain centralized storage.
+- Used css and bootstrap for styling.
 
 
